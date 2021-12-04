@@ -1,0 +1,38 @@
+header {
+  border: 5px  double;
+  border-color: brown antiquewhite aqua ;
+  font-family: monospace
+  
+}
+body{
+  margin:0px;
+  background-color: salmon;
+  border: red double 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+h1 {
+  margin: 5px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  padding: 5px 10px 15px;
+}
+#app {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+.classname {
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: center;
+  border: 5px red double;
+}
+.exp{
+  color: blue;
+  font-family: cursive;
+  font-size: 15px;
+}
